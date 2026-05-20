@@ -55,8 +55,17 @@ I am a Ìnormation Technology student focused on software engineering, data anal
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meg-0911&theme=visual_studio_code" alt="GitHub Streak Stats" height="180px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meg-0911&theme=visual_studio_code" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Meg-0911&show_icons=true&theme=visual_studio_code&count_private=false" alt="GitHub Stats" height="195px"/>
+</p>
+
+#### 🔤 Top Languages & Technologies (Most Used)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++
+-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
