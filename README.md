@@ -52,10 +52,9 @@ I am a Ìnormation Technology student focused on software engineering, data anal
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meg-0911&show_icons=true&theme=visual_studio_code&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meg-0911&layout=compact&theme=visual_studio_code" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meg-0911&theme=visual_studio_code" alt="GitHub Streak Stats" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meg-0911&theme=visual_studio_code" alt="Top Languages" height="180px"/>
 </p>
-
 ---
 
 ### 📬 Let's Connect!
