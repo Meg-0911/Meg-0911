@@ -49,6 +49,7 @@ I am a Ìnormation Technology student focused on software engineering, data anal
 *A low-level networking implementation focused on secure remote PC management.*
 * **Tech Stack:** C++, WinSock API, TCP/IP Protocols.
 * **Key Features:** Built a comprehensive **Remote Desktop Control system** from scratch over raw TCP sockets. Developed robust backend components for handling client-server packet synchronization, stream buffering, and secure remote command transmission.
+
 ---
 
 ### 📊 GitHub Analytics
@@ -57,6 +58,7 @@ I am a Ìnormation Technology student focused on software engineering, data anal
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meg-0911&theme=visual_studio_code" alt="GitHub Streak Stats" height="180px"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meg-0911&theme=visual_studio_code" alt="Top Languages" height="180px"/>
 </p>
+
 ---
 
 ### 📬 Let's Connect!
