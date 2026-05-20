@@ -23,30 +23,32 @@ I am a Ìnormation Technology student focused on software engineering, data anal
 ### 🏆 Featured Projects
 
 #### 📚 [Megist](https://github.com/Meg-0911/Megist) (Solo Project)
-*An intelligent, next-generation web ecosystem for literature and interactive storytelling.*
+*An intelligent web ecosystem for literature management, semantic discovery, and interactive storytelling.*
 * **Tech Stack:** Next.js, TailwindCSS, FastAPI, Supabase, pgvector, PostgreSQL.
-* **Key Achievements & Architecture:**
-  * **Pheromone-based Discovery (ACO):** Implemented an Ant Colony Optimization (ACO) algorithm to model readers' "emotional trails," enabling smart route-finding for user reading paths and generating interactive community experience heatmaps.
-  * **Semantic "Vibe" Search:** Developed a semantic search engine using Vector Similarity Search (Cosine Similarity) with `pgvector`, allowing users to query stories by overall atmosphere/mood rather than just standard keywords.
-  * **Lore Linter (Knowledge Graph):** Built an automated author-assist tool for world-building consistency that maps character relationships into knowledge graphs and auto-detects narrative/logic conflicts.
-  * **Hierarchical Data Chunking:** Optimized storage performance and latency by separating cold data (Supabase Object Storage) from high-frequency interactive content stored as JSONB blocks in PostgreSQL to support paragraph-level community comments.
+* **Key Architecture & Features:**
+  * **Pheromone-based Discovery (ACO):** Implemented an Ant Colony Optimization (ACO) algorithm to model readers' interaction data, enabling smart route-finding for personalized reading paths and generating community engagement heatmaps.
+  * **Semantic "Vibe" Search:** Developed a contextual search engine using Vector Similarity Search (Cosine Similarity) with `pgvector` to allow natural language queries based on story atmosphere and mood.
+  * **Lore Linter & World-building:** Built an author-assist tool that maps character relationships into structural knowledge graphs and auto-detects narrative consistency issues (logical conflicts, timeline mismatches).
+  * **Hierarchical Data Chunking:** Optimized database performance by implementing paragraph-level JSONB block storage in PostgreSQL to support inline community comments while keeping manuscript data efficiently structured.
 
 #### 🎓 [UStudy](https://github.com/hakhoi1901/UStudy) (Contributor)
-*A dedicated education and course management system tailor-made for HCMUS students and faculty.*
-* **Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, EJS.
-* **Key Achievements:** Co-developed a robust MVC-based architecture to handle academic workflows. The platform successfully deployed in a production-like environment, managing active user flows and data for **over 1,000 real-world users**.
+*An advanced, open-source Student Portal application tailored for HCMUS students to manage academic workflows.*
+* **Tech Stack:** React, TypeScript, Vite, Node.js, Express.js, MongoDB.
+* **Key Features:**
+  * **Intelligent Schedule Solver:** Integrated a Genetic Algorithm (GA) engine to automatically generate and optimize personalized timetables based on student preferences and constraints.
+  * **Academic Management:** Developed comprehensive modules for tracking tuition fees, grade management, GPA calculations, and future grade simulation tools.
+  * **Data Portability:** Implemented automated features to export academic schedules directly into productivity tools like Google Calendar and generated downloadable transcript PDFs.
+  * **Impact:** A production-ready Progressive Web App (PWA) and Android application currently serving **over 1,000 real-world users**.
 
 #### 🧮 [Singular Value Decomposition (SVD)](https://github.com/hakhoi1901/Singular-Value-Decomposition) (Contributor)
-*An algorithmic exploration of Matrix Factorization using Singular Value Decomposition.*
-* **Tech Stack:** Python, Jupyter Notebook, Linear Algebra Libraries.
-* **Key Achievements:** Contributed to implementing SVD workflows for data analysis, demonstrating a deep understanding of mathematical modeling, dimensionality reduction, and matrix-based optimizations.
+*Mathematical modeling and matrix factorization applied to image processing and cryptography.*
+* **Tech Stack:** Python, Jupyter Notebook, NumPy, Scikit-Image.
+* **Key Features:** Applied Singular Value Decomposition (SVD) core principles to design practical workflows for efficient **image compression** (dimensionality reduction) and **data encryption** algorithms to protect sensitive multidimensional datasets.
 
 #### 🌐 [HCMUS Computer Network Socket](https://github.com/hi0302/hcmus-computer-network-socket) (Contributor)
-*A low-level networking university project focusing on core internet protocols.*
-* **Tech Stack:** C++, Socket API, Network Protocols.
-* **Key Achievements:** Built reliable client-server communication channels from scratch, handling data streams, synchronization, and network buffers effectively to master back-end architecture at a fundamental level.
----
-
+*A low-level networking implementation focused on secure remote PC management.*
+* **Tech Stack:** C++, WinSock API, TCP/IP Protocols.
+* **Key Features:** Built a comprehensive **Remote Desktop Control system** from scratch over raw TCP sockets. Developed robust backend components for handling client-server packet synchronization, stream buffering, and secure remote command transmission.
 ---
 
 ### 📊 GitHub Analytics
