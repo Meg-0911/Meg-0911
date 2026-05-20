@@ -47,11 +47,13 @@ I am a Ìnormation Technology student focused on software engineering, data anal
 * **Key Achievements:** Built reliable client-server communication channels from scratch, handling data streams, synchronization, and network buffers effectively to master back-end architecture at a fundamental level.
 ---
 
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meg0911&show_icons=true&theme=visual_studio_code&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meg0911&layout=compact&theme=visual_studio_code" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Meg-0911&show_icons=true&theme=visual_studio_code&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meg-0911&layout=compact&theme=visual_studio_code" alt="Top Languages" height="180px"/>
 </p>
 
 ---
@@ -60,6 +62,6 @@ I am a Ìnormation Technology student focused on software engineering, data anal
 Whether you are looking for a full-stack generalist, a backend builder, or someone to brainstorm algorithmic solutions, feel free to reach out:
 
 * **Email:** maiquynhanh1819@gmail.com
-* **LinkedIn:** [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/th%E1%BB%8B-qu%E1%BB%B3nh-anh-%C4%91%C3%A0o-591088410/)
+* **LinkedIn:** [Thị Quỳnh Anh Mai](https://www.linkedin.com/in/th%E1%BB%B3-qu%E1%BB%B3nh-anh-m%C3%A1i-591088410/)
 
 🚀 *Let's build something impactful together!*
