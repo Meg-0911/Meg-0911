@@ -1,7 +1,7 @@
 # Hi there, I'm Quynh Anh 👋 
 
 ### 🚀 Full-Stack Developer & Data Solutions Enthusiast
-I am a Ìnormation Technology student focused on software engineering, data analysis, and mathematical modeling. I love building practical web platforms, deep-diving into low-level networking, and solving complex problems with robust algorithms.
+I am a Information Technology student focused on software engineering, data analysis, and mathematical modeling. I love building practical web platforms, deep-diving into low-level networking, and solving complex problems with robust algorithms.
 
 - 🛠️ Currently focusing on: **Full-Stack Web Architectures, Computer Science, and Optimization**
 - 🤝 Open to collaborate on projects requiring **Web/App Development, Data Integration, or Backend System Design**.
