@@ -52,12 +52,6 @@ I am a Information Technology student focused on software engineering, data anal
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meg-0911&theme=visualstudio&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
 #### 🔤 Top Languages & Technologies (Most Used)
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
