@@ -67,6 +67,4 @@ I am a Information Technology student focused on software engineering, data anal
 Whether you are looking for a full-stack generalist, a backend builder, or someone to brainstorm algorithmic solutions, feel free to reach out:
 
 * **Email:** maiquynhanh1819@gmail.com
-* **LinkedIn:** [Thị Quỳnh Anh Đào](https://www.linkedin.com/in/th%E1%BB%8B-qu%E1%BB%B3nh-anh-%C4%91%C3%A0o-591088410/)
-
 🚀 *Let's build something impactful together!*
